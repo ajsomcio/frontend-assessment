@@ -1,17 +1,25 @@
 Notes:
 
 Exercise 1
+
 • Needs Local Web Server to run (LESS)
+
 • Used Bootstrap 3 (Columns, Responsive Image Class)
+
 • Used LESS (added via Script placement)
 
 Exercise 2
+
 • Needs Local Web Server to run (LESS, Jquery JSON script)
+
 • Used Bootstrap 3 Collapse (for accordion) and Tabs
+
 • Used Jquery to pull JSON data and custom Jquery Script to change between Tabs and Accordion on screen resize
+
 • Used LESS (added via Script placement)
 
 --------------- Original Message ---------------
+
 Introduction
 ---
 Thanks for taking the time to complete this frontend technical assessment. We will be focusing on software quality (scalability, readability, maintainability, etc.) and your eye for detail. You may include any libraries. Bonus points if SASS/LESS is used and jQuery is not used.
